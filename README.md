@@ -1,0 +1,2 @@
+# goldnsm-license
+goldnsm-license
